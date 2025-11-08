@@ -3,7 +3,7 @@
 <h5 align="center">📍 Based in Morocco</h5>
 
 <p align="center">
-  <img src="https://via.placeholder.com/1200x400/1e1e1e/7F3FBF?text=Ahmed+Achbarou+%7C+Full-Stack+Developer" alt="Ahmed Achbarou Banner"/>
+  <img src="https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1932" alt="Ahmed Achbarou Banner"/>
 </p>
 
 <p align="center">
