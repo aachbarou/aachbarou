@@ -27,7 +27,7 @@
       <p>
         I am a results-oriented Full-Stack Developer with a passion for building robust and scalable applications. My current focus is on mastering advanced Go programming patterns and exploring complex microservice architectures. I thrive on solving complex problems and turning ideas into efficient, clean code.
       </p>
-      
+      <td>
       <ul>
         <li>🔭 I’m currently focused on <b>advanced Go patterns</b>.</li>
         <li>🌱 I’m exploring <b>microservices</b> and <b>system design</b>.</li>
