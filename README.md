@@ -1,11 +1,69 @@
 <h1 align="center">👋 Hello World</h1>
 <h3 align="center">🚀 Full-Stack Developer | Specialized IT Development Technician</h3>
 <h5 align="center">📍 Based in Morocco</h5>
+<h3 align="left">💻 Terminal Profile</h3>
 
-<p align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0ZmE4Y2k3aW45bmZ0ZmE4Y2k3aW45bmZ0ZmE4Y2k3aW45YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" alt="Coding GIF" style="border-radius: 10px; width: 100%; max-height: 300px; object-fit: cover;"/></p>
+<table>
+  <tr>
+    <td valign="top">
+<pre style="font-family: monospace; line-height: 1.2;">
+                  +;;;;+x+
+            .;x+;...     ::. .+xx
+         ..                    .. :;
+                                    ++
+                                    .:+
+                                     .:+
+          ++;.....:::::.               :+
+          xx+;;;;;;;;;;;:              .:
+         Xx+;;;;;;;;;;;;:              .;
+         Xx++;;;;;;;;;;;;:             .:
+        ;++++;;;:::;;;+++x+.           .:
+        ;;:;;.      .:++xxX;.   .;+++...
+         ::+;::   :..:;++xxx;;++;;;+:+.
+          X++;::..:;;;;++xxxx+xx;..;++.
+          x+++;;;;;;+++++xxx;;++:::+x.
+         x++++;:;;;;;;+++xx+;;x+;xX+.
+          x+;:::;;;;;;;;+++;;+XXXXXX
+          ;;. .:::;;;;;;;;;;;+xxxXXX
+          ;;:     :;;;;;;;:;;;;++XXX.
+           +;:::::::;;;::.  .;;;+XXX XX
+           xx+::::;::;:    :;;;;+xXx ;+
+            .;;;::.      .:;;:;;+++  :.
+                       .:;;;;;;;;:   .
+                   .:::::;;;;:::.
+                    .::::::::::
+                     .:::::::..
+                      :::.....
+                     .::::::...:.
+                     ::;;;;::::.
+                      ;;;;:::::
+                      :;;;;;;:
+                       :;;;;:
+                        :;:.
+                         :.
+</pre>
+    </td>
+    <td valign="top">
+<pre style="font-family: monospace;">
+<span style="color: #A683E3; font-weight: bold;">ahmed@achbarou</span>
+--------------
+<span style="color: #A683E3; font-weight: bold;">OS:</span> ......... Linux / Windows
+<span style="color: #A683E3; font-weight: bold;">Role:</span> ....... Full-Stack Developer
+<span style="color: #A683E3; font-weight: bold;">Location:</span> ... Morocco 📍
+<span style="color: #A683E3; font-weight: bold;">Editor:</span> ..... VS Code, IntelliJ IDEA
 
-<p align="center">
+<span style="color: #A683E3; font-weight: bold;">Backend:</span> .... Java (Spring Boot), Go, Rust
+<span style="color: #A683E3; font-weight: bold;">Frontend:</span> ... Vue 3, Angular, TypeScript
+<span style="color: #A683E3; font-weight: bold;">Database:</span> ... PostgreSQL, MySQL, Docker
+
+<span style="color: #A683E3; font-weight: bold;">Contact:</span>
+Email: ...... ahmedachbarou842@gmail.com
+LinkedIn: ... in/ahmed-achbarou
+Status: ..... 🟢 Open to Work
+</pre>
+    </td>
+  </tr>
+</table>
   <a href="https://linkedin.com/in/ahmed-achbarou" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
