@@ -1,11 +1,10 @@
 <h1 align="center">👋 Hello World</h1>
 <h3 align="center">🚀 Full-Stack Developer | Specialized IT Development Technician</h3>
 <h5 align="center">📍 Based in Morocco</h5>
-<h3 align="left">💻 Terminal Profile</h3>
 
-<table>
+<table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
 <pre style="font-family: monospace; line-height: 1.2;">
                   +;;;;+x+
             .;x+;...     ::. .+xx
@@ -23,6 +22,7 @@
           X++;::..:;;;;++xxxx+xx;..;++.
           x+++;;;;;;+++++xxx;;++:::+x.
          x++++;:;;;;;;+++xx+;;x+;xX+.
+          x+;:::;;;;;;;;+++xx+;;x+;xX+.
           x+;:::;;;;;;;;+++;;+XXXXXX
           ;;. .:::;;;;;;;;;;;+xxxXXX
           ;;:     :;;;;;;;:;;;;++XXX.
@@ -30,40 +30,16 @@
            xx+::::;::;:    :;;;;+xXx ;+
             .;;;::.      .:;;:;;+++  :.
                        .:;;;;;;;;:   .
-                   .:::::;;;;:::.
-                    .::::::::::
-                     .:::::::..
-                      :::.....
-                     .::::::...:.
-                     ::;;;;::::.
-                      ;;;;:::::
-                      :;;;;;;:
-                       :;;;;:
-                        :;:.
-                         :.
 </pre>
     </td>
-    <td valign="top">
-<pre style="font-family: monospace;">
-<span style="color: #A683E3; font-weight: bold;">ahmed@achbarou</span>
---------------
-<span style="color: #A683E3; font-weight: bold;">OS:</span> ......... Linux / Windows
-<span style="color: #A683E3; font-weight: bold;">Role:</span> ....... Full-Stack Developer
-<span style="color: #A683E3; font-weight: bold;">Location:</span> ... Morocco 📍
-<span style="color: #A683E3; font-weight: bold;">Editor:</span> ..... VS Code, IntelliJ IDEA
-
-<span style="color: #A683E3; font-weight: bold;">Backend:</span> .... Java (Spring Boot), Go, Rust
-<span style="color: #A683E3; font-weight: bold;">Frontend:</span> ... Vue 3, Angular, TypeScript
-<span style="color: #A683E3; font-weight: bold;">Database:</span> ... PostgreSQL, MySQL, Docker
-
-<span style="color: #A683E3; font-weight: bold;">Contact:</span>
-Email: ...... ahmedachbarou842@gmail.com
-LinkedIn: ... in/ahmed-achbarou
-Status: ..... 🟢 Open to Work
-</pre>
+    <td valign="top" width="50%">
+      <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&duration=3000&pause=1000&color=A683E3&background=00000000&vCenter=true&multiline=true&width=550&height=340&lines=ahmed%40achbarou;--------------+;OS%3A+.........+Linux+%2F+Windows;Role%3A+.......+Full-Stack+Developer;Location%3A+...+Morocco+%F0%9F%93%8D;Editor%3A+.....+VS+Code%2C+IntelliJ+IDEA;;Backend%3A+....+Java+(Spring+Boot)%2C+Go%2C+Rust;Frontend%3A+...+Vue+3%2C+Angular%2C+TypeScript;Database%3A+...+PostgreSQL%2C+MySQL%2C+Docker;;Contact%3A;Email%3A+......+ahmedachbarou842%40gmail.com;Status%3A+.....+%F0%9F%9F%A2+Open+to+Work" alt="Typing SVG" />
+      </div>
     </td>
   </tr>
 </table>
+<p align="center">
   <a href="https://linkedin.com/in/ahmed-achbarou" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -77,7 +53,7 @@ Status: ..... 🟢 Open to Work
 
 ---
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="55%">
       <h3>📝 About Me</h3>
