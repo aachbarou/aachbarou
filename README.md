@@ -34,7 +34,7 @@
     </td>
     <td valign="top" width="50%">
       <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&duration=3000&pause=1000&color=A683E3&background=00000000&vCenter=true&multiline=true&width=550&height=340&lines=ahmed%40achbarou;--------------+;OS%3A+.........+Linux+%2F+Windows;Role%3A+.......+Full-Stack+Developer;Location%3A+...+Morocco+%F0%9F%93%8D;Editor%3A+.....+VS+Code%2C+IntelliJ+IDEA;;Backend%3A+....+Java+(Spring+Boot)%2C+Go%2C+Rust;Frontend%3A+...+Vue+3%2C+Angular%2C+TypeScript;Database%3A+...+PostgreSQL%2C+MySQL%2C+Docker;;Contact%3A;Email%3A+......+ahmedachbarou842%40gmail.com;Status%3A+.....+%F0%9F%9F%A2+Open+to+Work" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=1000&pause=100&color=A683E3&background=00000000&vCenter=true&multiline=true&width=550&height=340&lines=ahmed%40achbarou;--------------+;OS%3A+.........+Linux+%2F+Windows;Role%3A+.......+Full-Stack+Developer;Location%3A+...+Morocco+%F0%9F%93%8D;Editor%3A+.....+VS+Code%2C+IntelliJ+IDEA;;Backend%3A+....+Java+(Spring+Boot)%2C+Go%2C+Rust;Frontend%3A+...+Vue+3%2C+Angular%2C+TypeScript;Database%3A+...+PostgreSQL%2C+MySQL%2C+Docker;;Contact%3A;Email%3A+......+ahmedachbarou842%40gmail.com;Status%3A+.....+%F0%9F%9F%A2+Open+to+Work" alt="Typing SVG" />
       </div>
     </td>
   </tr>
