@@ -3,8 +3,7 @@
 <h5 align="center">📍 Based in Morocco</h5>
 
 <p align="center">
-  <img src="https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1932" alt="Ahmed Achbarou Banner" style="border-radius: 10px; width: 100%; max-height: 300px; object-fit: cover;"/>
-</p>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0ZmE4Y2k3aW45bmZ0ZmE4Y2k3aW45bmZ0ZmE4Y2k3aW45YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" alt="Coding GIF" style="border-radius: 10px; width: 100%; max-height: 300px; object-fit: cover;"/></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-achbarou" target="_blank">
@@ -41,10 +40,10 @@
       <h3>🛠️ Tech Stack</h3>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
         <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
         <br>
-        <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
         <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
         <br>
@@ -66,42 +65,49 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/aachbarou/social-network" target="_blank">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=aachbarou&repo=social-network&theme=radical&title_color=A683E3&icon_color=A683E3" alt="Social Network">
-      </a>
-      <p align="center">
-        <b>Social Network (Vue + Go)</b><br>
-        Vue 3 (Vite) frontend with a Go API. Features users, posts, and a realtime feed.
+      <h3>🌐 Social Network</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Vue_3-35495E?logo=vuedotjs&logoColor=4FC08D" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
       </p>
+      <p>A full-featured social platform with posts, comments, and followers.</p>
+      <a href="https://github.com/aachbarou/social-network">
+        <img src="https://img.shields.io/badge/View_Code-GitHub?style=flat&logo=github&color=black" alt="View Code">
+      </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/aachbarou/01BLOG" target="_blank">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=aachbarou&repo=01BLOG&theme=radical&title_color=A683E3&icon_color=A683E3" alt="01BLOG">
-      </a>
-      <p align="center">
-        <b>01BLOG (Angular + Spring Boot)</b><br>
-        A full blogging platform. Angular frontend and Spring Boot backend handling auth, posts, and comments.
+      <h3>📝 01BLOG</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" />
       </p>
+      <p>Blogging platform featuring JWT auth, rich text editing, and comments.</p>
+      <a href="https://github.com/aachbarou/01BLOG">
+         <img src="https://img.shields.io/badge/View_Code-GitHub?style=flat&logo=github&color=black" alt="View Code">
+      </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/jbajady/real-time-forum" target="_blank">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=jbajady&repo=real-time-forum&theme=radical&title_color=A683E3&icon_color=A683E3" alt="Real Time Forum">
-      </a>
-      <p align="center">
-        <b>Real-Time Forum (Go + JS)</b><br>
-        Real-time messaging via WebSockets, threaded posts, and SQLite/Postgres persistence.
+      <h3>💬 Real-Time Forum</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSocket-black?logo=socket.io&logoColor=white" />
       </p>
+      <p>Real-time messaging via WebSockets with SQLite/Postgres persistence.</p>
+      <a href="https://github.com/jbajady/real-time-forum">
+         <img src="https://img.shields.io/badge/View_Code-GitHub?style=flat&logo=github&color=black" alt="View Code">
+      </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/bdaanoun/0-shell" target="_blank">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=bdaanoun&repo=0-shell&theme=radical&title_color=A683E3&icon_color=A683E3" alt="0-shell">
-      </a>
-      <p align="center">
-        <b>0-shell (Rust)</b><br>
-        Rust shell implementation. Features piping, redirection, and built-in commands (cd, export, etc).
+      <h3>🐚 0-shell</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
       </p>
+      <p>Custom shell implementation with piping, redirection, and built-ins.</p>
+      <a href="https://github.com/bdaanoun/0-shell">
+         <img src="https://img.shields.io/badge/View_Code-GitHub?style=flat&logo=github&color=black" alt="View Code">
+      </a>
     </td>
   </tr>
 </table>
@@ -147,18 +153,12 @@ cargo run -- &lt;args&gt;
 
 ---
 
-<h3 align="center">📈 GitHub Analytics</h3>
+<h3 align="center">📈 GitHub Activity</h3>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=aachbarou&show_icons=true&theme=radical&hide_border=true&title_color=A683E3&icon_color=A683E3" alt="Stats" />
-    </td>
-    <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aachbarou&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=A683E3" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/aachbarou?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/aachbarou?label=Total%20Stars&style=social" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aachbarou&label=Profile+Views&color=A683E3&style=flat-square" alt="Profile views" />
