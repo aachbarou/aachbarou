@@ -1,4 +1,3 @@
-<h1 align="center">👋 Hello World</h1>
 <h3 align="center">🚀 Full-Stack Developer | Specialized IT Development Technician</h3>
 <h5 align="center">📍 Based in Morocco</h5>
 
